@@ -1,5 +1,5 @@
 # <p style="color:dodger blue"> Pico y placa en Bogota </p>
-![Static Badge](https://img.shields.io/badge/python-yellow?logo=python) | ![Static Badge](https://img.shields.io/badge/ios-grey?logo=apple)
+![Static Badge](https://img.shields.io/badge/python-yellow?logo=python) | ![Static Badge](https://img.shields.io/badge/ios-gray?logo=apple) | ![Static Badge](https://img.shields.io/badge/ipywidgets-blue) | ![Static Badge](https://img.shields.io/badge/request-blue) | ![Static Badge](https://img.shields.io/badge/lxml-blue)
 
 
 Este repositorio nos permite saber qué placas tienen pico y placa el día de hoy en la ciudad de Bogotá.
