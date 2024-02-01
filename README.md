@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://i.imgur.com/NMl7z0I.jpg" alt="Pico y Placa Bogotá"/>
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/NMl7z0I.jpg" alt="Pico y Placa Bogotá">
+  <p style="font-size: 0.5em" align="right">Imagen por <strong>Infobae/Jovani Pérez</strong></p>
+</div>
+
 
 
 # Pico y placa en Bogota
@@ -16,4 +18,25 @@ Empleando un proceso de extracción web sencillo, solamente empleando request, b
 
 
 ## ¿Qué necesitaremos?
-Ahora, es necesario configurar el atajo en el iphone, para ello podemos descargarlo atravez de [este enlance](https://www.icloud.com/shortcuts/705bcc79d27142ed834d088591fb399a) cabe recordar que para que en el iPhone _pueda correr el script de Python_ es necesario contar con una aplicación que nos permita leer este tipo de archivos, en mi caso utilicé Pyto, si bien es de paga, nos permite reconocerla dentro de la app de atajos y emplear sus automatizaciones, la puedes obtener [aquí](https://apps.apple.com/app/id1436650069).
+
+Necesitamos contar con las librerías request y lxml en nuestro entorno para poder correr el script de una manera óptima.
+Para instalar **request** necesitamos ejecutar el sigueinte comando:
+<pre>pip install request</pre><br>
+
+Para insatlar lxml necesitaremos ejecutar el siguiente comando:
+<pre>pip install lxml</pre><br>
+
+Ahora, es necesario configurar el atajo en el iphone, para ello podemos descargarlo atravez de [este enlance](https://www.icloud.com/shortcuts/705bcc79d27142ed834d088591fb399a) cabe recordar que para que en el iPhone _pueda correr el script de Python_ es necesario contar con una aplicación que nos permita leer este tipo de archivos, en mi caso utilicé Pyto, si bien es de paga, nos permite reconocerla dentro de la *app de atajos* y emplear sus automatizaciones, la puedes obtener [aquí](https://apps.apple.com/app/id1436650069).<br>
+
+Así luce nuestro atajo:
+<div align="center">
+  <img src="https://imgur.com/1TcoHXn.jpg" alt="Atajo" width="350">
+</div> <br>
+
+
+El resultado que obtendremos  será una notificación con esta información, lucirá de la siguiente manera:<br>
+
+
+<div align="center">
+  <img src="https://imgur.com/OGOe24J.jpg" alt="Atajo" width="400">
+</div>
